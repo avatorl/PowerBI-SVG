@@ -1,4 +1,10 @@
-## Chord Diagram in Card (new) visual, created using SVG path command
+## Chord Diagram in Card (new) visual, created using SVG path commands
+
+Deneb - Chord.pbix - Deneb visual (with SVG paths generates in Vega signal)
+
+New Card - Chord (SVG).pbix - Card (new) visual with SVG paths generated in DAX measure
+
+---
 
 ![Slide1](https://github.com/avatorl/PowerBI-SVG/assets/59934292/095b64f4-c034-4aa8-b7ba-ddbc3aa825bd)
 
